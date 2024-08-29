@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Test coverage reports
+coverage/
+
+# Jest snapshots
+*.snap
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.temp
+
+# Other
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
