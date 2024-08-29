@@ -1,4 +1,4 @@
-import { app } from '../src/app'; // Ensure the correct path to your app
+import { app } from '../src/app';
 import supertest from 'supertest';
 
 const testRequest = supertest(app);
