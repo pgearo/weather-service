@@ -35,8 +35,3 @@ coverage/
 *.tmp
 *.temp
 
-# Other
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
